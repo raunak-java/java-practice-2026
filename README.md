@@ -1,15 +1,19 @@
-# Java Practice
+# Java Practice ☕
 
-This repository contains my Java practice programs.
+This repository contains my Java practice programs while learning Java.
 
 ## Topics Covered
-
+- Basics
 - Variables
 - Data Types
-- Type Conversion
-- Conditional Statements
-- Ternary Operator
-- Input/Output
-- Basic Programs
+- Operators
+- Conditions
+- Loops
+- Arrays
+- Mini Projects
 
-More programs will be added regularly.
+## Mini Projects
+- Mini Calculator
+
+## Author
+Raunak Kashyap
